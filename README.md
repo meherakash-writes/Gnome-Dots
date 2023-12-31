@@ -1,7 +1,8 @@
 ## Gnome-Dots
-Personal configuration files of my Aesthetic Gnome Desktop. Its pretty simple to setup it. 
+<p align="center">
+Personal configuration files of my Aesthetic Gnome Desktop. Its pretty simple to setup it.<br/>
 Please feel free to try it. This section will guide you through the installation process.
-
+</p>
 
 ## Gnome Shell Extension List
 

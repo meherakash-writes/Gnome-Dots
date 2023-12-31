@@ -1,9 +1,10 @@
-# Gnome-Dots
+## Gnome-Dots
 Personal configuration files of my Aesthetic Gnome Desktop. Its pretty simple to setup it. 
 Please feel free to try it. This section will guide you through the installation process.
 
 
-### Gnome Shell Extension List
+## Gnome Shell Extension List
+
 1.  ArcMenu            :     [Install Link](https://extensions.gnome.org/extension/3628/arcmenu/)
 2.  Aylur Widgets      :     [Install Link](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 3.  Bedtime Mode       :     [Install Link](https://extensions.gnome.org/extension/4012/gnome-bedtime/)
